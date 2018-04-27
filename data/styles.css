@@ -11,7 +11,7 @@
 }
 .box_2 {
 }
-._图片 {
+.image {
 }
 .placeholder {
 }
@@ -63,9 +63,10 @@
 ._文本段落 {
   text-align:left;
 }
-.arrow {
+.line {
 }
-._流程形状 {
+.checkbox {
+  text-align:left;
 }
 .icon {
 }

@@ -9,11 +9,10 @@
 }
 .box_1 {
 }
-.box_2 {
-}
-.image {
-}
 .placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -63,10 +62,7 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
-}
-.checkbox {
-  text-align:left;
+._流程形状 {
 }
 .icon {
 }

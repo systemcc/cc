@@ -9,7 +9,11 @@
 }
 .box_1 {
 }
+.ellipse {
+}
 .placeholder {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
@@ -62,7 +66,18 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+.table_cell {
+}
+.sticky_1 {
+  text-align:left;
+}
 ._流程形状 {
 }
 .icon {
+}
+.box_2 {
+}
+.flow_shape {
 }
